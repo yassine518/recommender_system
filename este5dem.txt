@@ -1,0 +1,6 @@
+on the vs terminal :
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+.\env\Scripts\Activate
+
+streamlit run app.py
