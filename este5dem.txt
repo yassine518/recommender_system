@@ -4,3 +4,5 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\env\Scripts\Activate
 
 streamlit run app.py
+
+the only need now is to get the api for posters from tmdb
